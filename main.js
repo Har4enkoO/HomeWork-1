@@ -1,6 +1,7 @@
 let apples = 15.678;
 let oranges = 123.965;
 let bananas = 90.2345;
+document.writeln("Завдання категорії Base", "<br \\/>");
 document.writeln("Максимальне значення: ",Math.max(apples,oranges,bananas), ".", "<br \\/>");
 document.writeln("Мінімальне значення: ",Math.min(apples,oranges,bananas),".", "<br \\/>");
 let sum = apples+oranges+bananas;
